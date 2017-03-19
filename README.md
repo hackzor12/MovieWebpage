@@ -4,6 +4,6 @@
 
 2. A: Open the directory movies_website and run: python entertainmentcenter.py
 
-2. B: Use a browser to upen fresh_tomatoes.py
+2. B: Use a browser to open fresh_tomatoes.py
 
 3. Use a text editor to change functionality in entertainmentcenter.py
