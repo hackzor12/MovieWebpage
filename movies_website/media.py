@@ -1,3 +1,4 @@
+
 import webbrowser
 
 #This class represents the skeloton for a movie
@@ -13,7 +14,7 @@ class Movie():
 		self.poster_image_url = poster_image
 		self.trailer_youtube_url = trailer_youtube
 
-		#This function uses a webbrowser function that we imported from the python standard library 
-		#to open a web page
+		'''This function uses a webbrowser function that we imported from the python standard library 
+		to open a web page'''
 	def show_trailer(self):
 		webbrowser.open(self.trailer_youtube_url)
